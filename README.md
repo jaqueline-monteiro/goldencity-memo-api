@@ -166,7 +166,6 @@ goldencity-memo-api/
 ├── run.py              # Quick start script
 ├── .gitignore          # Git ignore rules
 ├── README.md           # Project documentation (English)
-├── DOCUMENTACAO.md     # Detailed documentation (Portuguese)
 └── GoldenCity_Memo_API.postman_collection.json  # Postman collection
 ```
 
